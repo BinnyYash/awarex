@@ -94,8 +94,6 @@ The cost of speaking up about wrongdoing in India — and most places — is bor
 
 ## Built By
 
-Solo build for the Governance & Collaboration track. 24-hour hackathon.
+binny yashwanth kumar
 
-## License
 
-MIT
