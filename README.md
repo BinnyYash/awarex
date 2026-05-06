@@ -4,9 +4,9 @@
 
 A platform where citizens can report incidents, corruption, and civic issues with AI-powered credibility triage and direct routing to the right government departments — protected by anonymity, amplified by community support.
 
-🌐 **Live Demo:** [Add your Vercel URL here]
+🌐 **Live Demo:** [https://awarex.vercel.app/]
 🎥 **Walkthrough Video:** [Add your Loom URL here]
-🏛️ **Track:** Governance & Collaboration
+
 
 ---
 
@@ -94,6 +94,6 @@ The cost of speaking up about wrongdoing in India — and most places — is bor
 
 ## Built By
 
-binny yashwanth kumar
+Binny Yashwanth Kumar
 
 
