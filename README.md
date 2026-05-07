@@ -4,7 +4,7 @@
 
 A platform where citizens can report incidents, corruption, and civic issues with AI-powered credibility triage and direct routing to the right government departments — protected by anonymity, amplified by community support.
 
-🌐 **Live Demo:** [https://awarex.vercel.app/]
+🌐 **Live Demo:** [https://awarex-binnyyashs-projects.vercel.app/]
 🎥 **Walkthrough Video:** [https://www.loom.com/share/b21efe0364754b8cbd9081f4a5821b5c]
 
 
